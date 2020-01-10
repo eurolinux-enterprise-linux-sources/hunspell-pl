@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - hunspell-pl 
+# ELS - Enterprise Linux/EuroLinux Sources - hunspell-pl
+ 
 ## Usage:
   Checkout branch or tag.
